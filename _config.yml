@@ -23,17 +23,17 @@ repository               : "m-wizan/m-wizan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "picture.JPG"
+  name             : "Maisarah Wizan"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate at the Herman Deleeck Centre for Social Policy"
   location         : "Antwerp, Belgium"
-  employer         : "University of Antwerp, Herman Deleeck Centre for Social Policy"
+  employer         : "University of Antwerp"
   uri              : # URL
   email            : "nurmaisarah.bintemohammadwizan@uantwerpen.be" 
 
   # Academic websites
-  academia         : "https://www.uantwerpen.be/en/staff/nur-maisarah-binte-mohammad-wizan_23863/"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3L0cL5gAAAAJ&hl=en"
   inspire-hep      : # URL
