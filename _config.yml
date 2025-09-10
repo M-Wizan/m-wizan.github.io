@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "picture.JPG"
   name             : "Maisarah Wizan"
-  pronouns         : "she/her"  
+  pronouns         : # 
   bio              : "PhD Candidate at the Herman Deleeck Centre for Social Policy"
   location         : "Antwerp, Belgium"
   employer         : "University of Antwerp"
