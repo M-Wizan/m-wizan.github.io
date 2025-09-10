@@ -10,5 +10,5 @@ I am a doctoral researcher at the Herman Deleeck Centre for Social Policy, Unive
 
 My PhD dissertation focuses on income and earnings inequality in Belgium, with particular emphasis on documenting volatility from a longitudinal perspective. Specifically, my research investigates the vulnerability of different socio-demographic groups in terms of the instability of their earnings and income histories. I use both survey data (e.g., EU-SILC, EU-LFS) and large scale administrative data, to study and decompose inequality and volatility. My research aims to provide a deeper understanding into the dynamics of these risks across gender, education levels and generations, among other dimensions. 
 
-In my free time, I enjoy playing video and board games, listening and playing music (electric bass and trombone), and cooking. I also love travelling the globe together with my husband, and exploring different cultures and perspectives. 
+In my free time, I enjoy playing video and board games, playing and listening to music (electric bass and trombone), and cooking. I also love travelling the globe together with my husband, and exploring different cultures and perspectives. 
 
