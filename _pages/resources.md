@@ -4,7 +4,7 @@ author_profile: true
 title: "Resources"
 ---
 
-During my time as a PhD student, I came across a number of useful online resources. Most of these relate to things you don't necessary learn at school, such as how to organise your research or visualise your data, which is why I decided to collate a list of helpful sites and tools that would help other young researchers. Credit goes to the respective content creators for some of the links below. 
+During my time as a PhD student, I came across a number of useful online resources. Most of these relate to things you don't necessary learn at school, such as how to organise your research or visualise your data, which is why I decided to collate a list of helpful sites and tools that would help other young researchers. These resources are mostly (if not all) free and open source. Credit goes to the respective content creators for the links below. 
 
 ## Research management 
 ### Handy tools for managing literature:
