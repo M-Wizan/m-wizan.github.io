@@ -4,12 +4,12 @@ author_profile: true
 title: "Resources"
 ---
 
-During my time as a PhD student, I came across a number of useful online resources. Most of these relate to things you don't necessary learn at school, such as how to organise your research or visualise your data, which is why I decided to collate a list of helpful sites and tools that would help other young researchers. These resources are mostly (if not all) free and open source. Credit goes to the respective content creators for the links below. 
+During my time as a PhD student, I came across some useful resources online. Most of these relate to things you don't necessary learn at school, such as how to organise your research or visualise your data, which is why I decided to collate a list of helpful sites and tools that would help other young researchers. These resources are mostly (if not all) free and open source. Credit goes to the respective content creators for the links below. 
 
 ## Research management 
 ### Handy tools for managing literature:
 - [**Zotero**](https://www.zotero.org/): open source and free citation manager with a built-in pdf reader
-- [**Obsidian**](https://obsidian.md/): open source and free software for note-taking
+- [**Obsidian**](https://obsidian.md/): closed-source but arguably one of the most customisable note-taking apps that's free
 - [**NotebookLM**](https://notebooklm.google/): Google's free AI research assistant that allows you to add up to 50 attachments/source to get a swift overview of a collection of papers 
 - [**ResearchRabbit**](https://www.researchrabbit.ai/): another AI-based tool which lets you map articles forwards and backwards to see how papers are linked, and to stay updated with the state-of-the-art in the literature
 
