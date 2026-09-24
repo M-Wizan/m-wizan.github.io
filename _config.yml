@@ -26,7 +26,7 @@ author:
   avatar           : "picture.JPG"
   name             : "Maisarah Wizan"
   pronouns         : # 
-  bio              : "PhD Candidate at the Herman Deleeck Centre for Social Policy"
+  bio              : "PhD in Social and Economic Sciences"
   location         : "Antwerp, Belgium"
   employer         : "University of Antwerp"
   uri              : # URL
@@ -89,6 +89,8 @@ publication_category:
     title: 'Conference Papers'
   wp:
     title: 'Working Papers'
+  thesis:
+    title: 'PhD Dissertation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
