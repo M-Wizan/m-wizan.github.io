@@ -241,6 +241,7 @@ const photos = [
 ];
 
 let currentPhoto = 0;
+let activePhotos = photos;
 
 
 function loadPhoto(i){
@@ -248,13 +249,13 @@ function loadPhoto(i){
     currentPhoto = i;
 
     document.getElementById("photo-display").src =
-        photos[i].src;
+        activePhotos[i].src;
 
     document.getElementById("photo-title").textContent =
-        photos[i].title;
+        activePhotos[i].title;
 
     document.getElementById("photo-description").textContent =
-        photos[i].description;
+        activePhotos[i].description;
 }
 
 
@@ -262,7 +263,7 @@ function nextPhoto(){
 
     currentPhoto++;
 
-    if(currentPhoto >= photos.length){
+    if(currentPhoto >= activePhotos.length){
         currentPhoto = 0;
     }
 
@@ -275,7 +276,7 @@ function previousPhoto(){
     currentPhoto--;
 
     if(currentPhoto < 0){
-        currentPhoto = photos.length - 1;
+        currentPhoto = activePhotos.length - 1;
     }
 
     loadPhoto(currentPhoto);
@@ -287,11 +288,33 @@ function randomPhoto(){
     let r;
 
     do {
-        r = Math.floor(Math.random() * photos.length);
+        r = Math.floor(Math.random() * activePhotos.length);
     }
-    while(r === currentPhoto && photos.length > 1);
+    while(r === currentPhoto && activePhotos.length > 1);
 
     loadPhoto(r);
+}
+
+
+function showCategory(category){
+
+    activePhotos = photos.filter(
+        photo => photo.category === category
+    );
+
+    currentPhoto = 0;
+
+    loadPhoto(currentPhoto);
+}
+
+
+function showAll(){
+
+    activePhotos = photos;
+
+    currentPhoto = 0;
+
+    loadPhoto(currentPhoto);
 }
 
 
