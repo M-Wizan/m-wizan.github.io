@@ -2,16 +2,29 @@
 
     <img id="photo-display"
          src=""
-         alt="Photo">
+         alt="Photo reel">
 
     <h3 id="photo-title"></h3>
 
     <p id="photo-description"></p>
 
+
     <div class="photo-controls">
-        <button onclick="previousPhoto()">⏮ Previous</button>
+
+        <button onclick="showAll()">📷 All</button>
+        <button onclick="showCategory('music')">🎵 Music</button>
+        <button onclick="showCategory('food')">🍳 Food</button>
+        <button onclick="showCategory('other')">🛠 Miscellaneous</button>
         <button onclick="randomPhoto()">🎲 Random</button>
+
+    </div>
+
+
+    <div class="photo-navigation">
+
+        <button onclick="previousPhoto()">⏮ Previous</button>
         <button onclick="nextPhoto()">⏭ Next</button>
+
     </div>
 
 </div>
