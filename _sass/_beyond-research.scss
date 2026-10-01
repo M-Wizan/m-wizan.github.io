@@ -1,0 +1,31 @@
+.beyond-research-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 2rem;
+
+    align-items: start;
+
+}
+
+
+.photo-column,
+.music-column {
+
+    width: 100%;
+
+}
+
+
+/* Mobile layout */
+@media screen and (max-width: 768px) {
+
+    .beyond-research-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}
