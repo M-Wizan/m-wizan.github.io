@@ -11,6 +11,6 @@ I obtained my doctorate at the Herman Deleeck Centre for Social Policy, Universi
 ## Beyond Research
 In my free time, I enjoy playing video and board games, playing and listening to music (electric bass and trombone), as well as cooking and booking. I also love travelling the globe together with my husband, and exploring different cultures and perspectives. 
 
-🎵 Click through the video player below to hear some (very old, unfortunately) performances!
+🎵 Click through the video player below to hear some (unfortunately, very old) performances!
 {% include music-player.html %}
 
