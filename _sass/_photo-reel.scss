@@ -1,46 +1,32 @@
 .photo-reel {
-
   max-width: 760px;
   margin: 2rem auto;
   padding: 1rem;
-
   border: 1px solid #ddd;
   border-radius: 12px;
-
   background: #fafafa;
-
   text-align: center;
-
 }
 
 
 .photo-reel img {
-
   width: 100%;
   aspect-ratio: 16 / 9;
-
   object-fit: cover;
-
   border-radius: 8px;
-
 }
 
 
 .photo-reel h3 {
-
   margin: 1rem 0 0.25rem;
-
   text-align: center;
-
+  color: #222;
 }
 
 
 .photo-reel p {
-
   margin: 0 0 1rem;
-
   text-align: center;
-
   color: #666;
 
 }
@@ -48,29 +34,20 @@
 
 .photo-controls,
 .photo-navigation {
-
   display: flex;
-
   justify-content: center;
-
   gap: 0.75rem;
-
   flex-wrap: wrap;
-
 }
 
 
 .photo-controls {
-
   margin-top: 1rem;
-
 }
 
 
 .photo-navigation {
-
   margin-top: 0.75rem;
-
 }
 
 
