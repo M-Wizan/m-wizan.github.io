@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /hobbies/
 title: "Beyond research"
 author_profile: true
 redirect_from: 
