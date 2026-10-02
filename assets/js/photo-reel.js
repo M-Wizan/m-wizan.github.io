@@ -211,13 +211,6 @@ const photos = [
     },
 
     {
-        src: "/images/photos/utrecht.jpg",
-        category: "music",
-        title: "🎵 Music",
-        description: "Interesting caption from the Utrecht brass competition for wind orchestras."
-    },
-
-    {
         src: "/images/photos/wind_symph.jpg",
         category: "music",
         title: "🎵 Music",
